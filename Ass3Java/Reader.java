@@ -11,7 +11,7 @@ public class Reader {
 
         Map<Integer, Patient> dataMap = new LinkedHashMap<>();
 
-        String File = "./data.csv";
+        String File = "Ass3Java/data.csv";
         String line;
 
         try {
