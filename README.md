@@ -65,8 +65,5 @@ The dataset includes 569 patient records with:
 - Wikipedia: [Ball Tree](https://en.wikipedia.org/wiki/Ball_tree)
 
 ## 👥 Authors
-- **Joyal Biju Kulangara** (40237314)
-- **Kevin Mandiouba** (40243497)
-
-## ⚖️ License
-This project is licensed under the MIT License. See the LICENSE file for details.
+- **Joyal Biju Kulangara** [<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub" width="23"/>](https://github.com/Joyal99) [<img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="25"/>](https://linkedin.com/in/jbk79)
+- **Kevin Mandiouba** [<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub" width="23"/>](https://github.com/KevinMandiouba) [<img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="25"/>](https://linkedin.com/in/kevinmandiouba)
