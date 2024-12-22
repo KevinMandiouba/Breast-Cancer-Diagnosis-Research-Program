@@ -11,7 +11,7 @@ public class Ass3 {
     public static void main(String[] args) {
 
         System.out.println("*************************************************************************************");
-        System.out.println("\t\t\t\tAssignment 3: Breast Cancer Diagnosis Research");
+        System.out.println("\t\t\t\t\t Breast Cancer Diagnosis Research");
         System.out.println("*************************************************************************************");
 
         // Creates a Reader object to read the CSV file of the complete data set
